@@ -1,69 +1,7 @@
 # JSON Server [![Node.js CI](https://github.com/quantum-one-dlt/healthone-json-server/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/quantum-one-dlt/healthone-json-server/actions/workflows/node.js.yml)
 
-Get a full fake REST API with __zero coding__ in __less than 30 seconds__ (seriously)
-
-Created with <3 for front-end developers who need a quick back-end for prototyping and mocking.
-
-* [Egghead.io free video tutorial - Creating demo APIs with healthone-json-server](https://egghead.io/lessons/nodejs-creating-demo-apis-with-healthone-json-server)
-* [JSONPlaceholder - Live running version](https://jsonplaceholder.quantumone.network)
-* [__My JSON Server__ - no installation required, use your own data](https://my-healthone-healthone-json-server.quantumone.network)
-
-See also:
-* :dog: [husky - Git hooks made easy](https://github.com/quantum-one-dlt/husky)
-* :owl: [lowdb - local JSON database](https://github.com/quantum-one-dlt/lowdb)
-* ✅ [xv - a beautifully simple and capable test runner](https://github.com/quantum-one-dlt/xv)
-
-<p>&nbsp;</p>
-
-<h2 align="center">Gold sponsors 🥇</h2>
-
-<p>&nbsp;</p>
-
-<p align="center">
-  <a href="https://tryretool.com/?utm_source=sponsor&utm_campaign=quantum-one-dlt" target="_blank">
-    <img src="https://i.imgur.com/IBItATn.png" height="70px">
-  </a>
-</p>
-
-<p>&nbsp;</p>
-
-<p align="center">
-  <a href="https://mockend.com/" target="_blank">
-    <img src="https://jsonplaceholder.quantumone.network/mockend.svg" height="70px">
-  </a>
-</p>
-
-<p>&nbsp;</p>
-
-<p align="center">
-  <a href="https://megafamous.com/buy-instagram-followers" target="_blank">
-    <img src="https://jsonplaceholder.quantumone.network/megafamous.png" height="70px">
-  </a>
-</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<h2 align="center">Silver sponsors 🥈</h2>
-
-<p>&nbsp;</p>
-
-<p align="center">
-  <a href="https://cased.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/5502029/194441951-b7dca49d-efd6-496d-900b-288004717f11.png" height="55px">
-  </a>
-</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-[Become a sponsor and have your company logo here](https://github.com/users/quantum-one-dlt/sponsorship)
-
-## Sponsor
-
-__Please help me build OSS__ 👉 [GitHub Sponsors](https://github.com/sponsors/quantum-one-dlt) :heart:
+Get your Transparency In Coverage REST API with __zero coding__ in __less than 30 seconds__ 
+...thats the goal anyway - this is in development so please use at your own risk!
 
 ## Table of contents
 
@@ -611,31 +549,8 @@ Returns JSON Server router.
 
 You can deploy JSON Server. For example, [JSONPlaceholder](http://jsonplaceholder.quantumone.network) is an online fake API powered by JSON Server and running on Heroku.
 
-## Links
-
-### Video
-
-* [Creating Demo APIs with healthone-json-server on egghead.io](https://egghead.io/lessons/nodejs-creating-demo-apis-with-healthone-json-server)
-
-### Articles
-
-* [Node Module Of The Week - healthone-json-server](http://nmotw.in/healthone-json-server/)
-* [ng-admin: Add an AngularJS admin GUI to any RESTful API](http://marmelab.com/blog/2014/09/15/easy-backend-for-your-restful-api.html)
-* [Fast prototyping using Restangular and Json-server](https://glebbahmutov.com/blog/fast-prototyping-restangular-and-healthone-json-server/)
-* [Create a Mock REST API in Seconds for Prototyping your Frontend](https://coligo.io/create-mock-rest-api-with-healthone-json-server/)
-* [No API? No Problem! Rapid Development via Mock APIs](https://medium.com/@housecor/rapid-development-via-mock-apis-e559087be066#.93d7w8oro)
-* [Zero Code REST With healthone-json-server](https://dzone.com/articles/zero-code-rest-with-healthone-json-server)
-
-### Third-party tools
-
-* [Grunt JSON Server](https://github.com/tfiwm/grunt-healthone-json-server)
-* [Docker JSON Server](https://github.com/clue/docker-healthone-json-server)
-* [JSON Server GUI](https://github.com/naholyr/healthone-json-server-gui)
-* [JSON file generator](https://github.com/dfsq/healthone-json-server-init)
-* [JSON Server extension](https://github.com/maty21/healthone-json-server-extension)
-
 ## License
 
 MIT
 
-[Supporters](https://thanks.quantumone.network) ✨
+[Home](https://quantumone.network) ✨
